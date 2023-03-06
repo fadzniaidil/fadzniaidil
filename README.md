@@ -1,5 +1,7 @@
 
 <p align="center">
-  <img  src="https://media.tenor.com/VI0QRnHvsQsAAAAC/noot-noot-meme-noot-noot.gif">
+  <img  src="https://sm.mashable.com/mashable_in/photo/default/download_4x7w.gif">
 </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+<!-- https://media.tenor.com/VI0QRnHvsQsAAAAC/noot-noot-meme-noot-noot.gif" -->
