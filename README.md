@@ -1,5 +1,5 @@
 ### Hi there 👋
-<input type='text'>
+<textarea name="comment" form="usrform">Enter text here...</textarea>
 
 <!--
 **fadzniaidil/fadzniaidil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
