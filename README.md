@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src='https://gifimage.net/wp-content/uploads/2018/11/tumblr-glitch-gif-1.gif' >
 <!--
 **fadzniaidil/fadzniaidil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
