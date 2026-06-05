@@ -108,7 +108,7 @@ I build practical software systems that connect **mobile apps**, **backend APIs*
 | [**PsyTest**](https://github.com/fadzniaidil/psytest) | Web-based counselling session system for counsellors and clients. | PHP, CodeIgniter, MySQL, Web System |
 | [**eFlutter**](https://github.com/fadzniaidil/eFlutter) | Flutter course application project. | Flutter, Dart |
 | [**Omnicare**](https://github.com/fadzniaidil/Omnicare) | Web-based system for pharmacy management. | Python, Flask, SQLite, Web App |
-| [**fadzniaidil.github.io**](https://github.com/fadzniaidil/fadzniaidil.github.io) | Personal GitHub Pages / portfolio repository. | HTML, GitHub Pages |
+| 
 
 ---
 
