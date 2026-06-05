@@ -139,23 +139,6 @@ I build practical software systems that connect **mobile apps**, **backend APIs*
 
 ---
 
-## 🧭 Development Workflow
-
-```mermaid
-graph LR
-    A[Idea / Requirement] --> B[System Design]
-    B --> C[Prototype]
-    C --> D[Backend API]
-    D --> E[Frontend / Mobile App]
-    E --> F[Testing]
-    F --> G[Docker Deployment]
-    G --> H[Monitoring & Maintenance]
-```
-
-I usually approach projects by understanding the actual workflow first, then designing a system that is practical, maintainable, and ready for future integration.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -191,7 +174,7 @@ I usually approach projects by understanding the actual workflow first, then des
   <a href="https://fadzniaidil.github.io">
     <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fadzniaidil">
+  <a href="https://www.linkedin.com/in/aidilfadzni">
     <img src="https://img.shields.io/badge/LinkedIn-Fadzni%20Aidil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
